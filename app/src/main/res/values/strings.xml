@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Roman Numeral Converter</string>
+    <string name="convert_button_text">Convert</string>
+    <string name="conversion_error">Sorry, could not convert</string>
+    <string name="instructions_text">Enter an integer or Roman Numeral from 1–3999 and click to convert.</string>
+</resources>
